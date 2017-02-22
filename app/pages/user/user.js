@@ -54,7 +54,7 @@ Page({
         url: '../feedback/feedback'
       }, {
         icon: 'images/about.png',
-        text: '关于奔跑果果',
+        text: '关于商城',
         tip: '',
         url: '../about/about'
       }

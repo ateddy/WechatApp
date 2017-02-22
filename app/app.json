@@ -21,7 +21,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#000",
-    "navigationBarTitleText": "奔跑果果商城",
+    "navigationBarTitleText": "商城模版",
     "navigationBarTextStyle":"#fff"
   },
   "tabBar": {

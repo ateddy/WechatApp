@@ -26,7 +26,7 @@ Page({
   onShareAppMessage(event){
     console.log(event);
     return {
-          title: '奔跑果果商品页',
+          title: '商品页',
           desc: this.data.product.goods_name,
           path: '/products/products?id=' + this.data.product.id
         }

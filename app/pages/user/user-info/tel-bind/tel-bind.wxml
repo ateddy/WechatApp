@@ -9,7 +9,7 @@
   </view>
   <view class="mm-checkbox operation" checked="checked">
   <template is="mm-radio" data="{{...items}}"></template>
-  <label for="0f6255ee-4f7c-4510-bdb9-3ddd9612d876" class="labelCheck"><text class="text-primary ng-scope">《奔跑果果使用协议》</text></label>
+  <label for="0f6255ee-4f7c-4510-bdb9-3ddd9612d876" class="labelCheck"><text class="text-primary ng-scope">《商城使用协议》</text></label>
 </view>
   <button class="btn-primary disabled" disabled="disabled">获取验证码</button>
   <view class="ng-isolate-scope">
