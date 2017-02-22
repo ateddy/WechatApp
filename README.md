@@ -39,6 +39,7 @@ For the micro-code small program some of their own code accumulated
 - /lib/city             引入城市选择控件
 - /templates            小程序模版目录
 - /wxParse              小程序html解析扩展
+
 ###使用
 
 克隆本项目 -> 在微信开发工具中添加项目 -> 选择项目app目录
