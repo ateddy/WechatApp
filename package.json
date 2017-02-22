@@ -1,5 +1,5 @@
 {
-  "name": "mediamall-wxapp",
+  "name": "ateddy-wechatapp",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@192.168.45.4:zhangxiande/mediamall-wxapp.git"
+    "url": "git@github.com:ateddy/WechatApp.git"
   },
   "author": "",
   "license": "ISC",
